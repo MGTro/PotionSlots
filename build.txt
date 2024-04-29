@@ -1,0 +1,3 @@
+displayName = Potion Slots
+author = Dice
+version = 0.1
