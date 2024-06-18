@@ -1,7 +1,9 @@
-﻿[b]This mod adds 2 new slots into the game which are the following:[/b]
+[b]This mod adds 3 new slots into the game which are the following:[/b]
 
-[img]https://i.imgur.com/0w3usJC.png[/img] Healing Potions slot - You can place any healing potion inside.
-[img]https://i.imgur.com/Gc3km2O.png[/img] Mana Potions slot - You can place any mana potion inside.
+[img]https://imgur.com/3ZCgnR1.png[/img] Healing Potions slot - You can place any healing potion inside.
+[img]https://i.imgur.com/EcCMDFY.png[/img] Mana Potions slot - You can place any mana potion inside.
+[img]https://i.imgur.com/doS26mE.png[/img] Wormhole Potions slot - You can place any wormhole potion inside.
+
 
 🛈 Modded potions are supported.
 
