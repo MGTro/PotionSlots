@@ -5,4 +5,7 @@
 
 🛈 Modded potions are supported.
 
+Github link: https://github.com/MGTro/PotionSlots
+Credits: scalarvector - taking the comission
+
 Join our discord for updates/annoncements: https://discord.gg/te6MPuWbtD
