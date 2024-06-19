@@ -13,7 +13,7 @@ This mod adds 3 new slots into the game which are the following:
 
 🛈 Modded potions are supported.
 
-[Github link](https://github.com/MGTro/PotionSlots)
+[Steam link](https://steamcommunity.com/sharedfiles/filedetails/?id=3234262967)
 
 **Credits**: scalarvector - taking the commission
 
