@@ -8,7 +8,7 @@ This mod adds 3 new slots into the game which are the following:
 ![Mana Potions Slot](https://i.imgur.com/EcCMDFY.png)
 **Mana Potions Slot** - You can place any mana potion inside.
 
-![Wormhole Potions Slot](https://i.imgur.com/doS26mE.png)
+![Wormhole Potions Slot](https://i.imgur.com/WwQBqNl.png)
 **Wormhole Potions Slot** - You can place any wormhole potion inside.
 
 🛈 Modded potions are supported.
